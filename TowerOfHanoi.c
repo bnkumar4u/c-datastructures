@@ -26,7 +26,7 @@ int main()
 
 	printf("Towers of Hanoi series:\n");
 
-	towers(num,'A','B','C');
+	towers(num,'A','C','B');
 
 }
 
